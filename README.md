@@ -6,7 +6,6 @@ Seller can publish feeds about a product and the rank of the feed. Customer can 
 
 Seller can do following things.
   => Create seller
-  
   => Delete Seller
   => Publish Feed.
   => Delete the Feed.
