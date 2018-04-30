@@ -5,7 +5,8 @@ There is two module in in product feed(Seller and Customer).
 Seller can publish feeds about a product and the rank of the feed. Customer can see the feed of those seller whom he/she subscribed to sorted by recent or rank.
 
 Seller can do following things.
-  => Create seller\n
+  => Create seller
+  
   => Delete Seller
   => Publish Feed.
   => Delete the Feed.
